@@ -1,4 +1,4 @@
-# HealthKart-ProjectData
+# HealthKart-clone
 
 HealthKart is an online portal for Dietary supplements and health devices in the Health care industry in India. 
 
